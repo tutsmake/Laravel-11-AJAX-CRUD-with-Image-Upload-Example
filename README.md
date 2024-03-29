@@ -68,6 +68,9 @@ https://www.tutsmake.com/
 ![Delete - Laravel 11 Ajax CRUD with Image Upload Example](https://github.com/tutsmake/Laravel-11-AJAX-CRUD-with-Image-Upload-Example/blob/main/laravel%2011%20ajax%20crud%20with%20image%20upload%20example%20(4).png)
 ![Laravel 11 Ajax CRUD with Image Upload Example](https://github.com/tutsmake/Laravel-11-AJAX-CRUD-with-Image-Upload-Example/blob/main/laravel%2011%20ajax%20crud%20with%20image%20upload%20example%20(5).png)
 
+# Youtube Video Guide
+https://youtu.be/t6h94M4CclQ
+
 
 
 
