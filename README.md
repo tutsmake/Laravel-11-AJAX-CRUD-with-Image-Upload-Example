@@ -1,3 +1,5 @@
+# Laravel 11 Ajax CRUD Image Upload Example Tutorial
+
 In Laravel 11, implementing an AJAX CRUD (Create, Read, Update, Delete) application with image upload functionality can greatly enhance user experience. By leveraging AJAX, users can interact with the application without the need for page refreshes, providing a seamless and efficient workflow.
 
 To create such an application, you would start by setting up your Laravel project and defining routes for the CRUD operations. You would then create a controller to handle these operations, ensuring that image uploads are handled correctly. In your views, you would use JavaScript to send AJAX requests to the server and update the DOM dynamically based on the responses.
@@ -56,3 +58,16 @@ Test the Application: Test the CRUD and image upload functionality by adding, ed
 
 # published by
 https://www.tutsmake.com/
+
+# Images of this ajax crud image upload application
+#Laravel 11 CRUD with Image Upload Application:
+
+![Laravel 11 Ajax CRUD with Image Upload Example](https://github.com/tutsmake/Laravel-11-AJAX-CRUD-with-Image-Upload-Example/blob/main/laravel%2011%20ajax%20crud%20with%20image%20upload%20example%20(1).png)
+![Add Form - Laravel 11 Ajax CRUD with Image Upload Example](https://github.com/tutsmake/Laravel-11-AJAX-CRUD-with-Image-Upload-Example/blob/main/laravel%2011%20ajax%20crud%20with%20image%20upload%20example%20(2).png)
+![Edit Form - Laravel 11 Ajax CRUD with Image Upload Example](https://github.com/tutsmake/Laravel-11-AJAX-CRUD-with-Image-Upload-Example/blob/main/laravel%2011%20ajax%20crud%20with%20image%20upload%20example%20(3).png)
+![Delete - Laravel 11 Ajax CRUD with Image Upload Example](https://github.com/tutsmake/Laravel-11-AJAX-CRUD-with-Image-Upload-Example/blob/main/laravel%2011%20ajax%20crud%20with%20image%20upload%20example%20(4).png)
+![Laravel 11 Ajax CRUD with Image Upload Example](https://github.com/tutsmake/Laravel-11-AJAX-CRUD-with-Image-Upload-Example/blob/main/laravel%2011%20ajax%20crud%20with%20image%20upload%20example%20(5).png)
+
+
+
+
